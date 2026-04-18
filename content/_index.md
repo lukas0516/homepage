@@ -42,11 +42,16 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My research focuses on **energy-saving optimization** and **safety-guaranteed driving** of autonomous electrified vehicles, with particular emphasis on reinforcement learning, multi-agent systems, and human driver behavior modeling in mixed traffic flows.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        Specific areas of interest include:
 
-        Please reach out to collaborate 😃
+        - **Reinforcement learning for eco-driving**: designing control strategies for connected vehicles that cut energy consumption without compromising safety.
+        - **Multi-agent car-following control**: cooperative policies for platoons of connected electrified vehicles.
+        - **Human driving behavior modeling**: calibrating driver preferences from naturalistic driving data into distributions usable by autonomous controllers.
+        - **Safe learning-based control**: embedding control-barrier-function guarantees into reinforcement-learning controllers.
+
+        I have published more than 10 papers in leading journals including *IEEE Transactions on Intelligent Transportation Systems*, *IEEE Transactions on Transportation Electrification*, *IEEE Transactions on Control Systems Technology*, and *Energy*. I'm always happy to discuss collaborations — please reach out!
     design:
       columns: '1'
   - block: collection
